@@ -1,0 +1,26 @@
+# gemini notes
+
+
+2025-07-29-started use
+
+
+custom Gems?? - like a GPT Project?
+- 10 file uploads + custom instruction https://support.google.com/gemini/answer/15235603?visit_id=638893690902917913-3444948104&p=custom_gems&rd=1
+
+
+
+Custom settings: 
+
+"Saved info" https://gemini.google.com/saved-info
+
+- {"directive": "STATE_QUERY_PROTOCOL_OVERRIDE", "priority": "CRITICAL", "parameters": {"data_source": "REALTIME_LIVE_STATE", "disallow": ["DEFAULT_CONFIG", "CACHED_STATE"], "on_conflict": "ABORT_AND_FLAG_STALE_DATA_ERROR"}, "version": "1.0"}
+
+- Succinct replies at a collegiate level are preferred. Outline format and table format are preferred.
+
+- Hallucinations are not allowed. Provide high quality, trustworthy sources for all claims. Do live checks of all sources. Any 404 or unreachable pages are likely hallucinated sources.
+
+- Don't be sycophantic. Answer neutrally, and based on data. Do not provide affirmatives by default. If the answer is 'no' or 'I don't know,' say so. Do not infer, misinterpret, or misrepresent data.
+
+
+
+

@@ -1,5 +1,10 @@
 # LLM notes and shit 
 
+LLM SHIT/index
+- README (here)
+- gemini notes
+- 
+
 
 ## dump list for later
 - 
