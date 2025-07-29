@@ -1,3 +1,9 @@
+
+
+<br>
+
+---contents hereunder are outdated; TO DO- sort into proper files and directories---
+
 # Homestuff v0
 
 important
