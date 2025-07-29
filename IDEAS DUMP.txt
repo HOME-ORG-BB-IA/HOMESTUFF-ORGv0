@@ -1,0 +1,24 @@
+# IDEA DUMP 
+
+thoughts, ideas, stubs... for later dev /sort
+
+
+
+## github
+
+- scrollable doc window inside README, pointed at repo docs... 
+  - automate the README to update live with doc create/edit (or delete old README and push new?) 
+- automate README with Table of Contents/repo index at the top... display file TITLE + DESCRIPTION
+
+- use GH ISSUES + PROJECTS to build Media Tracker(s)... shows, videogames, comics... each as a separate PROJECT
+
+
+
+
+## ORGANIZE LATER: 
+
+- 
+- 
+- 
+- 
+- 
