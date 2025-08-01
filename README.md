@@ -4,8 +4,11 @@
 - create "coding taxonomy" doc with ~universal coderspeak, eg: UGC, listener, artifact, var, function,... 
 
 ## LLM commands: 
-- NEVER query for 'github Project (classic)' deprecated version:
+- NEVER query for the deprecated version 'github Project (classic)':
+  
 ```
+# NEVER query for the deprecated version 'github Project (classic)':
+
   // Define three small, orthogonal sets:
 const contextWords   = new Set(["project", "projects"]);
 const qualifiers     = new Set(["gh", "github", "kanban", "board", "table", "roadmap"]);
@@ -18,7 +21,7 @@ const exclusionWords = new Set(["classic"]); // renamed from negativeWords
 function isModernGitHubProjectQuery(query) {
   const words = query
     .toLowerCase()
-    .match(/\b\w+\b/g)      // simple tokenization
+    .match(/\b[\w-]+\b/g)      // simple tokenization
     ?? [];
 
   // core checks
