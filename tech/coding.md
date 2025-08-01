@@ -14,7 +14,7 @@ https://regex101.com/
 
 
 Github things?
-- https://github.com/topics/gh-extension
+- awesome CLI extensions... GUI, visualizers, etc.  https://github.com/topics/gh-extension
 
 
 
