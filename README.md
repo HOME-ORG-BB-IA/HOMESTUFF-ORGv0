@@ -5,6 +5,10 @@
 
 ## LLM commands: 
 - NEVER query for the deprecated version 'github Project (classic)':
+
+<details>  
+  
+  <br>
   
 ```
 # NEVER query for the deprecated version 'github Project (classic)':
@@ -46,8 +50,65 @@ console.log(isModernGitHubProjectQuery("what is a project?"));              // f
 console.log(isModernGitHubProjectQuery("how do I use github?"));            // false
 console.log(isModernGitHubProjectQuery("is this a classic github project?"));// false
 
-```
 
+<----------break----------> 
+
+# chatGPT o4-mini-high psudocode version:
+
+# NEVER query for the deprecated version "GitHub Project (classic)"
+
+# Define three small, orthogonal sets of keywords
+CONTEXT_WORDS   ← { "project", "projects" }
+QUALIFIERS     ← { "gh", "github", "kanban", "board", "table", "roadmap" }
+EXCLUSION_WORDS ← { "classic" }
+
+function isModernGitHubProjectQuery(query):
+    # 1. Normalize and tokenize (allowing hyphens)
+    lowered   ← lowercase(query)
+    words     ← regexMatchAll(lowered, r"\b[\w-]+\b")  # returns list of tokens or empty list
+
+    # 2. Core membership checks
+    hasContext   ← any(token in CONTEXT_WORDS   for token in words)
+    hasQualifier ← any(token in QUALIFIERS     for token in words)
+    hasExclusion ← any(token in EXCLUSION_WORDS for token in words)
+
+    # 3. Build clearer flags
+    isProject   ← hasContext
+    isGHContext ← hasQualifier
+    isClassic   ← hasExclusion
+
+    # 4. Final decision: must mention a “project” + qualifier, and must NOT mention “classic”
+    return isProject AND isGHContext AND (NOT isClassic)
+
+<----------break----------> 
+
+# gemini 2.5 pro pseudocode version:
+
+// RULE: GitHub Projects Query Interpretation
+// This heuristic determines when a user query refers to the modern "Projects" system.
+
+// STEP 1: Define Keyword Sets
+// The following sets are used to categorize words in the user's query.
+SET context_words   = ["project", "projects"]
+SET qualifier_words = ["gh", "github", "kanban", "board", "table", "roadmap"]
+SET exclusion_words = ["classic"]
+
+// STEP 2: Define Activation Logic
+// This rule is ACTIVE for the current query if and only if all three of the following conditions are met:
+//   1. The query CONTAINS at least one word from 'context_words'.
+//   AND
+//   2. The query CONTAINS at least one word from 'qualifier_words'.
+//   AND
+//   3. The query DOES NOT CONTAIN any word from 'exclusion_words'.
+
+// STEP 3: Define Behavior
+// IF this rule is ACTIVE, all behavior and output must adhere to the following:
+//   - TARGET_SYSTEM: The modern "GitHub Projects" environment.
+//   - IGNORE_SYSTEM: The legacy "Projects (classic)" environment.
+//   - All generated code, API calls, and explanations must align with the TARGET_SYSTEM.
+
+```
+</details>
 
 
 <br>
