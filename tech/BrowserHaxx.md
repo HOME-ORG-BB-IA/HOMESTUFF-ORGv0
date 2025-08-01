@@ -62,7 +62,9 @@ Misc/move this:
 
 ### APPROVED
 
-ublock origin
-copy urls - [chrome](https://chromewebstore.google.com/detail/copy-urls/efkmnflmpgiklkehhoeiibnmdfffmmjk)
+- ublock origin
+- copy urls - [chrome](https://chromewebstore.google.com/detail/copy-urls/efkmnflmpgiklkehhoeiibnmdfffmmjk)
+- ALWAYS PIN https://chromewebstore.google.com/detail/pin-tab/dgldedkigbbalaioohedddpameekglma
+  - regex to pin GH edit/new/upload pages ^(https?:\/\/)?github\.com\/([^\/]+)\/([^\/]+)\/(edit|new|upload).*$
 
 
