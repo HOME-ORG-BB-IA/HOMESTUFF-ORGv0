@@ -4,6 +4,7 @@
 - create "coding taxonomy" doc with ~universal coderspeak, eg: UGC, listener, artifact, var, function,... 
 
 ## LLM commands: 
+- idea: indicate at the top of every reply if a custom rule is invoked
 - NEVER query for the deprecated version 'github Project (classic)':
 
 <details>  
