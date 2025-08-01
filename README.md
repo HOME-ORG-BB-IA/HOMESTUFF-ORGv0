@@ -3,6 +3,48 @@
 ## coding
 - create "coding taxonomy" doc with ~universal coderspeak, eg: UGC, listener, artifact, var, function,... 
 
+## LLM commands: 
+- NEVER query for 'github Project (classic)' deprecated version:
+```
+  // Define three small, orthogonal sets:
+const contextWords   = new Set(["project", "projects"]);
+const qualifiers     = new Set(["gh", "github", "kanban", "board", "table", "roadmap"]);
+const exclusionWords = new Set(["classic"]); // renamed from negativeWords
+
+/**
+ * Returns true if the query mentions a “GitHub Project”
+ * (non-classic) in any form.
+ */
+function isModernGitHubProjectQuery(query) {
+  const words = query
+    .toLowerCase()
+    .match(/\b\w+\b/g)      // simple tokenization
+    ?? [];
+
+  // core checks
+  const hasContext    = words.some(w => contextWords.has(w));
+  const hasQualifier  = words.some(w => qualifiers.has(w));
+  const hasExclusion  = words.some(w => exclusionWords.has(w)); // renamed
+
+  // destructure into clearer flags
+  const isProject    = hasContext;
+  const isGHContext  = hasQualifier;
+  const isClassic    = hasExclusion;
+
+  // true ↔ project + qualifier present and not “classic”
+  return isProject && isGHContext && !isClassic;
+}
+
+// --- TEST CASES ---
+console.log(isModernGitHubProjectQuery("info on my github project"));       // true
+console.log(isModernGitHubProjectQuery("show me the project roadmap"));     // true
+console.log(isModernGitHubProjectQuery("how does the gh kanban work?"));    // true
+console.log(isModernGitHubProjectQuery("what is a project?"));              // false
+console.log(isModernGitHubProjectQuery("how do I use github?"));            // false
+console.log(isModernGitHubProjectQuery("is this a classic github project?"));// false
+
+```
+
 
 
 <br>
