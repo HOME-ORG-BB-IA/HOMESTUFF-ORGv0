@@ -10,3 +10,12 @@ https://regex101.com/
 
 ## (new) windows terminal 
 - https://github.com/microsoft/terminal
+
+
+
+Github things?
+- https://github.com/topics/gh-extension
+
+
+
+https://www.nerdfonts.com/
