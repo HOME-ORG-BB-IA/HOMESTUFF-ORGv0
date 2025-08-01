@@ -5,6 +5,7 @@
 
 ## LLM commands: 
 - idea: indicate at the top of every reply if a custom rule is invoked
+- when i ask for custom instructions, generate them as 'LLM psuedocode' for pasting in the 'custom context' fields of context-naive LLMs that have no knowledge of my preferences or past interaction
 - NEVER query for the deprecated version 'github Project (classic)':
 
 <details>  
