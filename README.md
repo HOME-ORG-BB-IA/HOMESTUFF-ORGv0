@@ -1,3 +1,8 @@
+# now a dump list: to-do/file later
+
+## coding
+- create "coding taxonomy" doc with ~universal coderspeak, eg: UGC, listener, artifact, var, function,... 
+
 
 
 <br>
