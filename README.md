@@ -3,6 +3,9 @@
 ## coding
 - create "coding taxonomy" doc with ~universal coderspeak, eg: UGC, listener, artifact, var, function,... 
 
+## chatGPT 
+- models explained! https://help.openai.com/en/articles/7864572-what-is-the-chatgpt-model-selector
+
 ## LLM commands: 
 - idea: indicate at the top of every reply if a custom rule is invoked
 - when i ask for custom instructions, generate them as 'LLM psuedocode' for pasting in the 'custom context' fields of context-naive LLMs that have no knowledge of my preferences or past interaction
