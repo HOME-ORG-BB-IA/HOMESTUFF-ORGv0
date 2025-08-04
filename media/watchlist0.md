@@ -1,13 +1,16 @@
 Now watching
-- ap bio (netflix) 
+- andor
+- bad thoughts 
+- 
 - dandadan (anime, netflix) 
 - Smoke (netflix) 
-
+- gashiakuta (anime, crunchy roll) 
 
 
 Background noise: 
 - Wild Ones (apple)
 - Wild Boys  
+- thirst (travel/food, HBO) 
 
 
 
@@ -21,6 +24,7 @@ furgot:
 Up next
 - shin godzilla 
 - nyaight of the living dead (anime, unreleased) 
+- daredevil 
 
 
 
@@ -31,4 +35,7 @@ Finished
 - White lotus
 - Yellow jackets
 - Abbot Elementary
-- Common side effects
+- Common side effect
+- captain America with Han solo 
+- ap bio (Netflix)
+- scavengers reign
