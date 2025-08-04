@@ -31,7 +31,6 @@ Anime:
 
 
 furgot:
-- 
 - killing eve
 - 
 
@@ -44,7 +43,7 @@ Up next
 - 28 months, years later 
 - 
 
-
+---
 
 
 Finished
