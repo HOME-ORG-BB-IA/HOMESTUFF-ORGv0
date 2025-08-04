@@ -11,6 +11,8 @@ Background noise:
 - Wild Ones (apple)
 - Wild Boys  
 - thirst (travel/food, HBO) 
+- prison school 
+
 
 
 
@@ -18,13 +20,15 @@ furgot:
 - pluto (anime, Netflix) 
 - witch from mercury
 - killing eve
-
+- 
 
 
 Up next
 - shin godzilla 
 - nyaight of the living dead (anime, unreleased) 
 - daredevil 
+- ghosts stories (anime, comedy dub, Amazon) 
+
 
 
 
@@ -39,3 +43,8 @@ Finished
 - captain America with Han solo 
 - ap bio (Netflix)
 - scavengers reign
+- spy family 
+
+
+DROPPED
+- DARK
