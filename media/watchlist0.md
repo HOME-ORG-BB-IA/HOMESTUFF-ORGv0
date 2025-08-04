@@ -4,21 +4,32 @@ Now watching
 - 
 - dandadan (anime, netflix) 
 - Smoke (netflix) 
-- gashiakuta (anime, crunchy roll) 
+-  
+- bet (anime live action, Netflix) 
 
 
 Background noise: 
 - Wild Ones (apple)
 - Wild Boys  
 - thirst (travel/food, HBO) 
+- 
+
+
+Anime:
+- pluto (netflix) 
 - prison school 
+- gachiakuta (Amazon) 
+- dandadan (Netflix) 
+- witch from mercury 
+- equuuux
+- solo any boss/overtime girl
+- so I'm a spider... 
 
 
 
 
 furgot:
-- pluto (anime, Netflix) 
-- witch from mercury
+- 
 - killing eve
 - 
 
@@ -35,7 +46,7 @@ Up next
 Finished
 - godzilla minus one
 - Last of Us s1-2
-= Severance
+- Severance
 - White lotus
 - Yellow jackets
 - Abbot Elementary
@@ -44,6 +55,7 @@ Finished
 - ap bio (Netflix)
 - scavengers reign
 - spy family 
+- 
 
 
 DROPPED
