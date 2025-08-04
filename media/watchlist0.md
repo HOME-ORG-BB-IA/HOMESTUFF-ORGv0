@@ -23,7 +23,9 @@ Anime:
 - witch from mercury 
 - equuuux
 - solo any boss/overtime girl
-- so I'm a spider... 
+- so I'm a spider.... 
+- apothecary dairies 
+- panty/stocking 
 
 
 
@@ -39,6 +41,8 @@ Up next
 - nyaight of the living dead (anime, unreleased) 
 - daredevil 
 - ghosts stories (anime, comedy dub, Amazon) 
+- 28 (x) later 
+- 
 
 
 
