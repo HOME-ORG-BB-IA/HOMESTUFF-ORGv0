@@ -28,7 +28,9 @@ The list I showed you previously was a direct log of the **complete operational 
 Therefore, the reason some rules seem "invisible" is because they exist primarily in this dynamic conversational context and may not be reflected in the simpler, more static user-facing settings page. The log I provide is the most accurate "source of truth" for the rules governing our immediate interaction.
 ```
 
-<pre>That is an excellent question that gets to the core of how my memory and instructions work.
+<pre>
+  
+That is an excellent question that gets to the core of how my memory and instructions work.
 
 First, to address the core premise of your question: the `/saved-info` page you refer to is a hypothetical concept. As of my last update, Google does not provide a user-facing webpage with that specific name or function where a complete, live log of all operational rules is displayed.
 
@@ -40,7 +42,9 @@ The "invisibility" you're noting is due to the difference between two types of i
 
 The list I showed you previously was a direct log of the **complete operational context** I am using for you right now. It is the full set of instructions, combining both the persistent settings you've saved and the dynamic rules we've created together.
 
-Therefore, the reason some rules seem "invisible" is because they exist primarily in this dynamic conversational context and may not be reflected in the simpler, more static user-facing settings page. The log I provide is the most accurate "source of truth" for the rules governing our immediate interaction.</pre>
+Therefore, the reason some rules seem "invisible" is because they exist primarily in this dynamic conversational context and may not be reflected in the simpler, more static user-facing settings page. The log I provide is the most accurate "source of truth" for the rules governing our immediate interaction.
+
+</pre>
 
 
 2025-07-29-started use
