@@ -41,7 +41,7 @@ Up next
 - nyaight of the living dead (anime, unreleased) 
 - daredevil 
 - ghosts stories (anime, comedy dub, Amazon) 
-- 28 (x) later 
+- 28 months, years later 
 - 
 
 
