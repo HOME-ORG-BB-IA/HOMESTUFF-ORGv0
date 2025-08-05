@@ -7,10 +7,18 @@ LLM SHIT/index
 
 
 ## dump list for later
-- 
-- 
-- 
-- 
+- Agent task: scrape content
+  - invasion - waybackmachine
+  - edm.com - live site?
+  - L4V & DLH - waybackmachine 
+- Agent task: build static webpage
+  - convert/iterate current L4V site
+  - build bbdigital/alh/isa portfolio based on...
+- Agent task: build intake form
+  - github forms automation
+  - L4V
+  - dogs
+-Analysis: l4v SEO, Google tag mgr, google ads, ... 
 
 
 
@@ -18,6 +26,7 @@ LLM SHIT/index
 - MCP
 
 ## AGENTS
+
 - [AGENT TOOL] : https://www.browserbase.com
   - agent x web browser API
   - great looking out-of-box integrations
