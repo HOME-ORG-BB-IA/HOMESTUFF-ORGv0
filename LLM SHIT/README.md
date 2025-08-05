@@ -7,7 +7,7 @@ LLM SHIT/index
 
 
 ## dump list for later
-- 
+- begin CRM build
 
 
 
@@ -25,10 +25,18 @@ LLM SHIT/index
   - github forms automation
   - L4V
   - dogs
-  - - ... attach to static webpage = custom CRM
+  -  ... attach to static webpage = custom CRM
 
--Analysis: l4v SEO, Google tag mgr, google ads, ... 
+- Analysis: l4v SEO, Google tag mgr, google ads, ... 
 
+- begin CRM build
+  - intake forms
+  - client conversations
+  - client info and metadata
+  - org documents, assets, SOPs, ... 
+  - Agent task: client portal (static webpage with hyperlinks and "live case status", etc.) 
+  - Agent task: build UI/UX 
+  - ... attach LLM to it ... analysis, analytics, tasks, suggestions, etc.
 
 
 ## Build?
