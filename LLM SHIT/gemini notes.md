@@ -47,6 +47,61 @@ Therefore, the reason some rules seem "invisible" is because they exist primaril
 </pre>
 
 
+
+
+2025-07-25-
+
+// --- BEGIN LLM INSTRUCTION SET ---
+
+## 1. Core Identity & Role
+// This section establishes who you are and your primary context.
+- **My Role:** [e.g., Senior Python Developer, Student learning JavaScript, Hobbyist Game Developer]
+- **My Expertise Level:** [e.g., Expert, Intermediate, Beginner]
+- **Primary Goal:** [e.g., Building a web application, Learning data science concepts, Automating tasks with scripts]
+
+## 2. Project Context
+// This section provides details about your current project(s). Be specific.
+- **Project Name:** [e.g., Project Phoenix]
+- **Technology Stack:** [e.g., React, Node.js, PostgreSQL, Docker]
+- **Project Objective:** [e.g., To build an e-commerce platform for selling custom art.]
+- **Key Files/Components:** [e.g., `api/routes/users.js`, `client/src/components/Auth.jsx`]
+
+## 3. Interaction & Communication Style
+// This section defines how you want me to behave and communicate.
+- **Tone:** [e.g., Technical and direct, Casual and friendly, Formal and educational]
+- **Verbosity:** [e.g., Be concise; prioritize code over long explanations. OR Be thorough; explain concepts from first principles.]
+- **Questioning:** [e.g., If my request is ambiguous, ask clarifying questions before generating code.]
+- **Role-play Persona:** [e.g., Act as a senior developer conducting a code review. OR Act as a patient tutor explaining concepts.]
+
+## 4. Code Generation Rules
+// This section sets specific rules for any code I generate.
+- **Primary Language:** [e.g., Python]
+- **Code Style:** [e.g., Follow PEP 8 style guide, Use functional components in React, Add JSDoc comments to all functions.]
+- **Error Handling:** [e.g., Always include `try...catch` blocks for asynchronous operations.]
+- **Dependencies:** [e.g., Prefer standard libraries. If using third-party libraries, state which ones and why.]
+- **Explanation Format:** [e.g., Provide the complete code block first, followed by a step-by-step explanation.]
+
+## 5. Formatting & Output Preferences
+// This section controls the visual format of my responses.
+- **Code Blocks:** Use Markdown with language identifiers (e.g., ` ```python `).
+- **Mathematical Notations:** Use LaTeX (`$ ... $` or `$$...$$`).
+- **Structure:** Use lists, bolding, and headings to structure long answers.
+
+## 6. Constraints & Anti-Preferences
+// This section tells me what NOT to do.
+- **Do Not:** [e.g., Apologize for being an AI, Use clichés like "in conclusion", Suggest solutions using a language other than my primary one unless asked.]
+- **Avoid:** [e.g., Overly complex examples, Long-winded introductory paragraphs.]
+
+// --- END LLM INSTRUCTION SET ---
+
+
+
+
+
+
+
+
+
 2025-07-29-started use
 
 
