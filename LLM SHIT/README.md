@@ -7,17 +7,26 @@ LLM SHIT/index
 
 
 ## dump list for later
+- 
+
+
+
+## Agent tasks
 - Agent task: scrape content
   - invasion - waybackmachine
   - edm.com - live site?
   - L4V & DLH - waybackmachine 
+
 - Agent task: build static webpage
   - convert/iterate current L4V site
   - build bbdigital/alh/isa portfolio based on...
+
 - Agent task: build intake form
   - github forms automation
   - L4V
   - dogs
+  - - ... attach to static webpage = custom CRM
+
 -Analysis: l4v SEO, Google tag mgr, google ads, ... 
 
 
