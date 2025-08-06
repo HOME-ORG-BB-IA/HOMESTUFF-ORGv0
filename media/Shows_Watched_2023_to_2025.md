@@ -1,0 +1,137 @@
+# Shows Watched from 2023 to 2025
+
+**Total unique shows:** 131
+
+## 📺 Show Titles
+
+- 1899
+- 3 Body Problem
+- 44 Cats
+- A Good Girl's Guide to Murder
+- ANIMA
+- Adolescence
+- All Quiet on the Western Front
+- All the Light We Cannot See
+- Anyone But You
+- Arcane
+- Avatar The Last Airbender
+- BEEF
+- BLUE EYE SAMURAI
+- Baby Reindeer
+- Bad Boys
+- Bad Boys II
+- Best of Stand
+- Bet
+- Bird Box Barcelona
+- Black Doves
+- Black Mirror
+- Bodies
+- Bodkin
+- Bridgerton
+- Captain Fall
+- Captain Laserhawk
+- Castlevania
+- Chelsea Handler
+- Christmas Gameday
+- Cunk On Earth
+- DAN DA DAN
+- Delicious in Dungeon
+- Dragon's Dogma
+- Dragons
+- Drink Masters
+- Dune
+- Ehrengard
+- Emily in Paris
+- Evil
+- Extraction
+- Fifty Shades of Grey
+- Friends from College
+- From Scratch
+- Ginny & Georgia
+- Godzilla Minus One
+- Godzilla Minus One/Minus Color
+- Good Grief
+- Grimsburg
+- Guillermo del Toro's Cabinet of Curiosities
+- Guillermo del Toro’s Pinocchio
+- Hit Man
+- House of Ninjas
+- How to Become a Cult Leader
+- Human
+- I Think You Should Leave with Tim Robinson
+- Inside Man
+- Invisible City
+- Irish Wish
+- It Ends With Us
+- KAOS
+- Killing Eve
+- Lady Chatterley's Lover
+- Love
+- Love, Death & Robots
+- Luther
+- Madame Web
+- Mike Birbiglia
+- Miller's Girl
+- Mind Your Manners
+- Missing You
+- Moving Art
+- Mulligan
+- Neal Brennan
+- Nobody Wants This
+- ONE PIECE
+- Obliterated
+- Obsession
+- Oddballs
+- Our Universe
+- Outlander
+- PLUTO
+- Pantheon
+- Pearl
+- Players
+- Pokémon Concierge
+- Queen Charlotte
+- Rebel Moon — Part One
+- Rebel Moon — Part Two
+- Red Notice
+- Resident Alien
+- SAKAMOTO DAYS
+- Scavengers Reign
+- Sex Education
+- Shadow and Bone
+- Simone Biles Rising
+- Sommore
+- Strange Way of Life
+- Subservience
+- Suits
+- Supacell
+- Sweet Tooth
+- Taylor Tomlinson
+- Terminator Zero
+- The Antisocial Network
+- The Bad Batch
+- The Book of Clarence
+- The Brothers Sun
+- The Empress
+- The Fall of the House of Usher
+- The Four Seasons
+- The Gentlemen
+- The Gray Man
+- The Killer
+- The Magic School Bus
+- The Magic School Bus Rides Again
+- The Man from Toronto
+- The Merry Gentlemen
+- The Night Agent
+- The Perfect Couple
+- The Residence
+- The Swan
+- The Twilight Saga
+- The Witcher
+- They Cloned Tyrone
+- Tokyo Override
+- Treason
+- Triple Frontier
+- Twilight
+- Verified Stand
+- You
+- Yu Yu Hakusho
