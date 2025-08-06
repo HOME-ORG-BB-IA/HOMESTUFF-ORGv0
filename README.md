@@ -1,7 +1,7 @@
 Repo / Org Index (expanded: [index.md](https://github.com/HOME-ORG-BB-IA/HOMESTUFF-ORGv0/blob/main/index.md)) 
 
-1. repo: [HOMESTUFF](https://github.com/HOME-ORG-BB-IA/HOMESTUFF-ORGv0) repo // org: https://github.com/orgs/HOME-ORG-BB-IA/repositories
-2. repo: [L4V main](https://github.com/alh-industries/L4V-ORGv1) repo // org: https://github.com/orgs/alh-industries/repositories
+1. [HOMESTUFF](https://github.com/HOME-ORG-BB-IA/HOMESTUFF-ORGv0) repo // org: https://github.com/orgs/HOME-ORG-BB-IA/repositories
+2. [L4V main](https://github.com/alh-industries/L4V-ORGv1) repo // org: https://github.com/orgs/alh-industries/repositories
    - fork: [LLM main](https://github.com/alh-industries/L4V-ORG-vLLM)
    - fork: [gemini dev fork](https://github.com/alh-industries/L4VvLLM-gemini)
 
