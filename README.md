@@ -21,6 +21,10 @@ REPO | parent ORG
 - https://docs.github.com/en/github-models/use-github-models/prototyping-with-ai-models
 - gh ai models/extensions https://github.com/marketplace?type=models
 - ai playground https://github.com/marketplace/models
+-  
+
+- 
+- export nLM docs https://vivekhere.medium.com/how-to-export-google-notebooklm-saved-notes-as-pdf-10b5ce6c6c10
 
 
 
