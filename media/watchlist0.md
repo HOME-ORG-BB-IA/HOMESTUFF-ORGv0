@@ -43,6 +43,7 @@ Up next
 - 28 months, years later 
 - alien earth (Hulu?) 
 - twisted metal s2
+- devs (8 eps) 
 
 ---
 
