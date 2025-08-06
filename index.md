@@ -33,3 +33,13 @@ HOME ORG
 - owner: bb4379
 - org settings https://github.com/organizations/HOME-ORG-BB-IA/settings/profile
 
+
+
+
+v2: 
+
+- repo: [HOMESTUFF](https://github.com/HOME-ORG-BB-IA/HOMESTUFF-ORGv0) // org: https://github.com/orgs/HOME-ORG-BB-IA
+- repo: [L4V main](https://github.com/alh-industries/L4V-ORGv1) // org: https://github.com/orgs/alh-industries
+- fork: [LLM main](https://github.com/alh-industries/L4V-ORG-vLLM)
+- fork: [gemini dev fork](https://github.com/alh-industries/L4VvLLM-gemini)
+
