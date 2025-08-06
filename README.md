@@ -5,10 +5,13 @@ REPO | parent ORG
 [L4V main](https://github.com/alh-industries/L4V-ORGv1) >> [LLM fork](https://github.com/alh-industries/L4V-ORG-vLLM) >> [GEMINI DEV fork (ACTIVE)](https://github.com/alh-industries/L4VvLLM-gemini) | [ALH Industries](https://github.com/orgs/alh-industries/repositories) // owner: [@alhllc](https://github.com/alhllc?tab=repositories) // [settings](https://github.com/organizations/alh-industries/settings/profile)
 [HOMESTUFF v0](https://github.com/HOME-ORG-BB-IA/HOMESTUFF-ORGv0) | [HOME ORG](https://github.com/orgs/HOME-ORG-BB-IA/repositories) // owner:[ @bakerb4379](https://github.com/bakerb4379?tab=repositories) //  [settings](https://github.com/organizations/HOME-ORG-BB-IA/settings) 
 
-
 --------------------
+<br>
+<br>
 
-# dump list: to-do/file later
+
+
+# 0) DUMP LIST: file later
 
 - gh x msft loop https://support.microsoft.com/en-us/office/use-github-with-loop-5a4d95d5-3c59-4de8-a208-c9c8ab05a4fb
 - 
@@ -19,9 +22,13 @@ REPO | parent ORG
 
 
 
+<br>
 
+<br>
 
 --------------
+<br>
+<br>
 
 ## coding
 - create "coding taxonomy" doc with ~universal coderspeak, eg: UGC, listener, artifact, var, function,...
