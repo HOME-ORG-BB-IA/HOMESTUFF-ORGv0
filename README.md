@@ -10,7 +10,7 @@ REPO | parent ORG
 
 # dump list: to-do/file later
 
-- 
+- gh x msft loop https://support.microsoft.com/en-us/office/use-github-with-loop-5a4d95d5-3c59-4de8-a208-c9c8ab05a4fb
 - 
 - 
 - 
