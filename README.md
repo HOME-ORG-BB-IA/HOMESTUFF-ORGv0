@@ -1,11 +1,11 @@
-Repo / Org Index (expanded: [index.md](https://github.com/HOME-ORG-BB-IA/HOMESTUFF-ORGv0/blob/main/index.md)) 
+### Repo / Org Index (expanded: [index.md](https://github.com/HOME-ORG-BB-IA/HOMESTUFF-ORGv0/blob/main/index.md)) 
 
 1. [HOMESTUFF](https://github.com/HOME-ORG-BB-IA/HOMESTUFF-ORGv0) repo // org: [HOME-ORG](https://github.com/orgs/HOME-ORG-BB-IA/repositories) 
 2. [L4V main](https://github.com/alh-industries/L4V-ORGv1) repo // org: [ALH IND](https://github.com/orgs/alh-industries/repositories) 
    - fork: [LLM main](https://github.com/alh-industries/L4V-ORG-vLLM)
    - fork: [gemini dev fork](https://github.com/alh-industries/L4VvLLM-gemini)
 
-ORGs
+### ORGs
 
 1. [ALH Industries](https://github.com/orgs/alh-industries/repositories) // owner: @alhllc // [settings](https://github.com/organizations/alh-industries/settings/profile)
 2. [HOME ORG](https://github.com/orgs/HOME-ORG-BB-IA/repositories) // owner: @bakerb4379 //  https://github.com/organizations/HOME-ORG-BB-IA/settings
