@@ -4,23 +4,26 @@
 
 ## [md table](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
 
+- Hyphens are used to create each column's header, while pipes separate each column
+- include a blank line before your table in order for it to correctly render (???) 
+- pipes on either end of the table are optional
+- must be at least three hyphens in each column of the header row
+- cells accept [text formatting](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables#formatting-content-within-your-table)
+
+```
+Header1 | Header2
+--- | ---
+cell | cell
+cell | cell
+```
+
+
 | First Header  | Second Header |
 | ------------- | ------------- |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
 
 
-- Hyphens are used to create each column's header, while pipes separate each column
-- include a blank line before your table in order for it to correctly render (???) 
-- pipes on either end of the table are optional
-- must be at least three hyphens in each column of the header row
-
-```
-Header1 | Header2
---- | ---
-cell. | cell?
-cell... | cell!
-```
 
 ## `mermaid` [flow chart](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-diagrams):
 
