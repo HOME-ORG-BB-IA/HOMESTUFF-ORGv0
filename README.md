@@ -1,4 +1,6 @@
-# REPO [index](https://github.com/HOME-ORG-BB-IA/HOMESTUFF-ORGv0/blob/main/index.md)  | # parent ORG
+### repo index 
+
+REPO [index](https://github.com/HOME-ORG-BB-IA/HOMESTUFF-ORGv0/blob/main/index.md)  | parent ORG
 --- | ---
 [L4V main](https://github.com/alh-industries/L4V-ORGv1) >> [LLM fork](https://github.com/alh-industries/L4V-ORG-vLLM) >> [GEMINI DEV fork](https://github.com/alh-industries/L4VvLLM-gemini) | [ALH Industries](https://github.com/orgs/alh-industries/repositories) // owner: [@alhllc](https://github.com/alhllc?tab=repositories) // [settings](https://github.com/organizations/alh-industries/settings/profile)
 [HOMESTUFF v0](https://github.com/HOME-ORG-BB-IA/HOMESTUFF-ORGv0) | [HOME ORG](https://github.com/orgs/HOME-ORG-BB-IA/repositories) // owner:[ @bakerb4379](https://github.com/bakerb4379?tab=repositories) //  [settings](https://github.com/organizations/HOME-ORG-BB-IA/settings) 
