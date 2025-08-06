@@ -18,8 +18,9 @@ REPO | parent ORG
 - https://www.perplexity.ai/help-center/en/articles/10354919-what-advanced-ai-models-are-included-in-a-perplexity-pro-subscription
 - 
 - 
-- 
-- 
+- https://docs.github.com/en/github-models/use-github-models/prototyping-with-ai-models
+- gh ai models/extensions https://github.com/marketplace?type=models
+- ai playground https://github.com/marketplace/models
 
 
 
