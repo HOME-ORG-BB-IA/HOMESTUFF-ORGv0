@@ -1,7 +1,21 @@
 # now a dump list: to-do/file later
 
+- 
+- 
+- 
+- 
+- 
+- 
+
+
+
+
+
+--------------
+
 ## coding
-- create "coding taxonomy" doc with ~universal coderspeak, eg: UGC, listener, artifact, var, function,... 
+- create "coding taxonomy" doc with ~universal coderspeak, eg: UGC, listener, artifact, var, function,...
+- https://en.wikipedia.org/wiki/Don%27t_repeat_yourself
 
 ## chatGPT 
 - models explained! https://help.openai.com/en/articles/7864572-what-is-the-chatgpt-model-selector
