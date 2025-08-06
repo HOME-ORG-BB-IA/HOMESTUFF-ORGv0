@@ -14,7 +14,8 @@ REPO | parent ORG
 # 0) DUMP LIST: file later
 
 - gh x msft loop https://support.microsoft.com/en-us/office/use-github-with-loop-5a4d95d5-3c59-4de8-a208-c9c8ab05a4fb
-- 
+- perplexity models explained https://www.perplexity.ai/help-center/en/articles/10352901-what-is-perplexity-pro#h_1943dabaeb
+- https://www.perplexity.ai/help-center/en/articles/10354919-what-advanced-ai-models-are-included-in-a-perplexity-pro-subscription
 - 
 - 
 - 
