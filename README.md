@@ -7,8 +7,8 @@
 
 #### ORGs
 
-1. [ALH Industries](https://github.com/orgs/alh-industries/repositories) // owner: @alhllc // [settings](https://github.com/organizations/alh-industries/settings/profile)
-2. [HOME ORG](https://github.com/orgs/HOME-ORG-BB-IA/repositories) // owner: @bakerb4379 //  https://github.com/organizations/HOME-ORG-BB-IA/settings
+1. [ALH Industries](https://github.com/orgs/alh-industries/repositories) // owner: [@alhllc](https://github.com/alhllc?tab=repositories) // [settings](https://github.com/organizations/alh-industries/settings/profile)
+2. [HOME ORG](https://github.com/orgs/HOME-ORG-BB-IA/repositories) // owner:[ @bakerb4379](https://github.com/bakerb4379?tab=repositories) //  [settings](https://github.com/organizations/HOME-ORG-BB-IA/settings) 
 
 
 
