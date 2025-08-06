@@ -16,10 +16,10 @@
 - must be at least three hyphens in each column of the header row
 
 
-Command | Description
+Header1 | Header2
 --- | ---
-git status | List all new or modified files
-git diff | Show file differences that haven't been staged
+cell. | cell?
+cell... | cell!
 
 
 ## `mermaid` [flow chart](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-diagrams):
