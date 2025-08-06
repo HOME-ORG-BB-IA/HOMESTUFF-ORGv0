@@ -41,7 +41,8 @@ Up next
 - daredevil 
 - ghosts stories (anime, comedy dub, Amazon) 
 - 28 months, years later 
-- 
+- alien earth (Hulu?) 
+- twisted metal s2
 
 ---
 
