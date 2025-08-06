@@ -1,5 +1,6 @@
+<sup>
+  
 Repo / Org Index (see [index.md](https://github.com/HOME-ORG-BB-IA/HOMESTUFF-ORGv0/blob/main/index.md)) 
-
 
 HOMESTUFF
 
@@ -35,6 +36,8 @@ HOME ORG
 - https://github.com/HOME-ORG-BB-IA
 - owner: bb4379
 - org settings https://github.com/organizations/HOME-ORG-BB-IA/settings/profile
+
+</sup>
 
 ```
 # Repo / Org Index
