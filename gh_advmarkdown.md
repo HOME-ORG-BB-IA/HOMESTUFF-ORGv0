@@ -9,17 +9,16 @@ https://docs.github.com/en/get-started/writing-on-github
 
 
 
-Here is a simple flow chart:
-
+`mermaid` [flow chart](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-diagrams):
 
 
 ```mermaid
-info
 graph TD;
     A-->B;
     A-->C;
     B-->D;
     C-->D;
+STRING!
 ```
 
 
