@@ -218,6 +218,7 @@ Testing:
 - git command visualizer https://onlywei.github.io/explain-git-with-d3
 - add "community health" tabs (next to README tab) https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/creating-a-default-community-health-file#supported-file-types // https://github.com/orgs/community/discussions/86658
 - Custom Forms // Issue Templates https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/configuring-issue-templates-for-your-repository#creating-issue-forms
+- pin repos to profile https://github.blog/developer-skills/github/pin-repositories-to-your-github-profile/
 
 #### Static site generator 
 - static webpage builders
