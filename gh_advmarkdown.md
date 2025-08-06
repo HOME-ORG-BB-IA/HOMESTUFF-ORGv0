@@ -2,7 +2,7 @@
 
 
 
-## md table
+## [md table](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
 
 | First Header  | Second Header |
 | ------------- | ------------- |
@@ -10,12 +10,26 @@
 | Content Cell  | Content Cell  |
 
 
+- Hyphens are used to create each column's header, while pipes separate each column
+- include a blank line before your table in order for it to correctly render (???) 
+- pipes on either end of the table are optional
+- must be at least three hyphens in each column of the header row
 
 
+Command | Description
+--- | ---
+git status | List all new or modified files
+git diff | Show file differences that haven't been staged
 
 
 ## `mermaid` [flow chart](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-diagrams):
 
+```
+   A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+```
 
 ```mermaid
 graph TD;
