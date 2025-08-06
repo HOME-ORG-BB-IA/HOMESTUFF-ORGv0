@@ -8,7 +8,7 @@ REPO | parent ORG
 
 --------------------
 
-# now a dump list: to-do/file later
+# dump list: to-do/file later
 
 - 
 - 
