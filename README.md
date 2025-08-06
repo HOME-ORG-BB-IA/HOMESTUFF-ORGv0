@@ -5,6 +5,8 @@ REPO | parent ORG
 [L4V main](https://github.com/alh-industries/L4V-ORGv1) >> [LLM fork](https://github.com/alh-industries/L4V-ORG-vLLM) >> [GEMINI DEV fork (ACTIVE)](https://github.com/alh-industries/L4VvLLM-gemini) | [ALH Industries](https://github.com/orgs/alh-industries/repositories) // owner: [@alhllc](https://github.com/alhllc?tab=repositories) // [settings](https://github.com/organizations/alh-industries/settings/profile)
 [HOMESTUFF v0](https://github.com/HOME-ORG-BB-IA/HOMESTUFF-ORGv0) | [HOME ORG](https://github.com/orgs/HOME-ORG-BB-IA/repositories) // owner:[ @bakerb4379](https://github.com/bakerb4379?tab=repositories) //  [settings](https://github.com/organizations/HOME-ORG-BB-IA/settings) 
 
+https://github.com/alhllc/LLM-dev-shits
+
 --------------------
 <br>
 <br>
@@ -21,7 +23,7 @@ REPO | parent ORG
 - https://docs.github.com/en/github-models/use-github-models/prototyping-with-ai-models
 - gh ai models/extensions https://github.com/marketplace?type=models
 - ai playground https://github.com/marketplace/models
--  
+- models in repo https://github.blog/changelog/2025-05-19-github-models-built-into-your-repository-is-in-public-preview/
 
 - 
 - export nLM docs https://vivekhere.medium.com/how-to-export-google-notebooklm-saved-notes-as-pdf-10b5ce6c6c10
