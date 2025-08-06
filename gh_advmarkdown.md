@@ -15,12 +15,12 @@
 - pipes on either end of the table are optional
 - must be at least three hyphens in each column of the header row
 
-
+```
 Header1 | Header2
 --- | ---
 cell. | cell?
 cell... | cell!
-
+```
 
 ## `mermaid` [flow chart](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-diagrams):
 
