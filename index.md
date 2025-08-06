@@ -43,3 +43,33 @@ v2:
 - fork: [LLM main](https://github.com/alh-industries/L4V-ORG-vLLM)
 - fork: [gemini dev fork](https://github.com/alh-industries/L4VvLLM-gemini)
 
+
+v3
+
+Repo / Org Index (see expanded [index.md](https://github.com/HOME-ORG-BB-IA/HOMESTUFF-ORGv0/blob/main/index.md)) 
+
+- ALH ORG: https://github.com/orgs/alh-industries/repositories
+  - repo: [L4V main](https://github.com/alh-industries/L4V-ORGv1)
+  - fork: [LLM main](https://github.com/alh-industries/L4V-ORG-vLLM)
+  - fork: [gemini dev fork](https://github.com/alh-industries/L4VvLLM-gemini)
+- HOME ORG: https://github.com/orgs/HOME-ORG-BB-IA/repositories
+  - repo: [HOMESTUFF](https://github.com/HOME-ORG-BB-IA/HOMESTUFF-ORGv0)
+ 
+- alhllc (personal): https://github.com/alhllc?tab=repositories
+- bb4379 (personal): https://github.com/bakerb4379?tab=repositories
+
+ORGs
+
+ALH Industries
+
+- https://github.com/alh-industries
+- owner: alhllc
+- org settings https://github.com/organizations/alh-industries/settings/profile
+
+HOME ORG 
+
+- https://github.com/HOME-ORG-BB-IA
+- owner: bb4379
+- org settings https://github.com/organizations/HOME-ORG-BB-IA/settings/profile
+
+- 
