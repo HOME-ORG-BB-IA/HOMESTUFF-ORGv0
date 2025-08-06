@@ -1,13 +1,15 @@
 # Repo / Org Index
 
 
-HOMESTUFF - https://github.com/HOME-ORG-BB-IA/HOMESTUFF-ORGv0
+HOMESTUFF
+
+- https://github.com/HOME-ORG-BB-IA/HOMESTUFF-ORGv0
 - owner HOME-ORG
 
 L4V
-- https://github.com/alh-industries/L4V-ORGv1
-- https://github.com/alh-industries/L4V-ORG-vLLM
-- https://github.com/alh-industries/L4VvLLM-gemini
+- MAIN - https://github.com/alh-industries/L4V-ORGv1
+- main LLM fork - https://github.com/alh-industries/L4V-ORG-vLLM
+- gemini dev fork - https://github.com/alh-industries/L4VvLLM-gemini
 
 
 ## REPO PAGES
