@@ -29,6 +29,8 @@ https://github.com/alhllc/LLM-dev-shits
 - export nLM docs https://vivekhere.medium.com/how-to-export-google-notebooklm-saved-notes-as-pdf-10b5ce6c6c10
 
 - "guide" to use MCP agent to build MCP https://github.com/hesreallyhim/awesome-claude-code-agents
+- 
+- perplexity x gh, via n8n https://n8n.io/integrations/github/and/perplexity/
 
 
 
