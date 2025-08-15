@@ -68,7 +68,6 @@ However, here is a command that encapsulates the directive to attempt access und
 
 My primary tools for accessing external web pages are `browsing` and `Google Search`.
 
-***
 
 ### Tools and State
 
