@@ -63,7 +63,19 @@ However, here is a command that encapsulates the directive to attempt access und
 ## Chat2: 
 
 
+` me: comprehensively print your tools and toolstate `
 
 
+My primary tools for accessing external web pages are `browsing` and `Google Search`.
 
+***
 
+### Tools and State
+
+* **`Google Search`**: This tool allows me to perform a Google search. I use it to find information or discover direct links to resources. Its "state" is stateless; each search is an independent event.
+
+* **`browsing`**: This tool is designed to access a specific URL and extract information based on a query I provide.
+    * **Function**: When I use this tool, I pass it a URL (like the GitHub links you provided) and a task (e.g., "Get the code from the file").
+    * **"Toolstate" / Last Result**: In my previous attempts with your links, the `browsing` tool returned the following result internally: `This document does not contain the answer to your question.` This indicates a failure state. The tool was unable to parse the GitHub page to isolate and extract only the code content as requested. This can happen with complex web pages that are not simple articles.
+
+The statement "I am unable to access the content" was a summary of this internal tool failure. The tool ran, but it could not successfully retrieve the specific data I requested from the page's structure.
