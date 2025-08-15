@@ -1,21 +1,35 @@
-# LLM notes and shit 
+# LLM notes and shit (llm-README.md)
 
 LLM SHIT/index
 - README (here)
 - gemini notes
-- 
+- IDEA LAB 
 
 
-## dump list for later
+## DUMP LIST
 - begin CRM build
 
+## Custom commands?
+
+```boopy
+**Analyze the following content with these strict directives:**
+
+1.  **Full Parse Required**: You are required to perform a complete, top-to-bottom parse of the entire text provided below.
+2.  **No Cache**: Ignore any prior knowledge or cached versions of this data. Treat this as the single source of truth for this request.
+3.  **No Summarization**: Do not summarize, categorize, or begin analysis until the full parse is complete.
+4.  **Literal Interpretation**: Parse all data literally. Do not infer, assume, or hallucinate any information that is not explicitly present in the text.
+5.  **Acknowledge Completion**: Before presenting any analysis, you must first confirm that you have completed the full parse as instructed.
+
+[Paste your content here]
+```
 
 
-## Agent tasks
+## Agent tasks?
 - Agent task: scrape content
   - invasion - waybackmachine
   - edm.com - live site?
-  - L4V & DLH - waybackmachine 
+  - L4V & DLH - waybackmachine
+  - build MCP... use MCP building agent, lol 
 
 - Agent task: build static webpage
   - convert/iterate current L4V site
@@ -39,8 +53,7 @@ LLM SHIT/index
   - ... attach LLM to it ... analysis, analytics, tasks, suggestions, etc.
 
 
-## Build?
-- MCP
+
 
 ## AGENTS
 
