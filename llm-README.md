@@ -6,12 +6,20 @@ LLM SHIT/index
 - IDEA LAB 
 
 
-## DUMP LIST
+# DUMP LIST
 - begin CRM build
 
-## Custom commands?
+
+<!------------------------------------------------------->
+
+
+# Custom commands?
+
+1. `Prompt "indicate a "magic bullet" LLM command to require strict full parse, no cache invoke"`
 
 ```
+(Gemini 2.5 pro)
+
 **Analyze the following content with these strict directives:**
 
 1.  **Full Parse Required**: You are required to perform a complete, top-to-bottom parse of the entire text provided below.
@@ -22,6 +30,12 @@ LLM SHIT/index
 
 [Paste your content here]
 ```
+
+
+<!------------------------------------------------------->
+
+
+
 
 
 ## Agent tasks?
@@ -67,6 +81,11 @@ LLM SHIT/index
 
 
 
+<!------------------------------------------------------->
+
+
+
+
 ## Multi-LLM platforms:
 
 ### Together ai 
@@ -97,6 +116,8 @@ web browsers
   - https://www.diabrowser.com/
    
 
+
+<!------------------------------------------------------->
 
 
 
