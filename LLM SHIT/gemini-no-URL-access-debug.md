@@ -79,3 +79,52 @@ My primary tools for accessing external web pages are `browsing` and `Google Sea
     * **"Toolstate" / Last Result**: In my previous attempts with your links, the `browsing` tool returned the following result internally: `This document does not contain the answer to your question.` This indicates a failure state. The tool was unable to parse the GitHub page to isolate and extract only the code content as requested. This can happen with complex web pages that are not simple articles.
 
 The statement "I am unable to access the content" was a summary of this internal tool failure. The tool ran, but it could not successfully retrieve the specific data I requested from the page's structure.
+
+##
+
+
+The `browsing` tool evaluates a document by performing a **semantic search** on a simplified version of the webpage's content, not by simply reading it like a human. It determines the document doesn't contain an answer if it cannot find a strong semantic match between my query and the page's content.
+
+***
+
+### ## How the `browsing` Tool Works
+
+The process can be broken down into three main steps:
+
+1.  **Fetch and Parse**: First, the tool fetches the raw content from the URL. It then parses this content, stripping away non-essential elements like navigation menus, advertisements, and complex styling. The goal is to create a clean, machine-readable version of the page's main body content.
+
+2.  **Semantic Search**: This is the crucial step. The tool takes my query (e.g., "Get the code from the file") and analyzes its **intent**. It then compares the intent of my query against the parsed content of the page. This is not a simple keyword search (`Ctrl+F`). It's looking for a *conceptual* match. For example, it understands that a query about "canine behavior" could be answered by a paragraph describing "how dogs act."
+
+3.  **Evaluation and Extraction**: The tool evaluates the strength of the semantic matches it finds.
+    * **Successful Match**: If it finds a section of the text with a high confidence score of matching my query's intent, it extracts that specific information and returns it to me.
+    * **Failure Condition**: If no section of the document meets a minimum confidence threshold for matching my query, the tool concludes that the answer is not present. This triggers the `"This document does not contain the answer..."` message. This can happen because the information is truly absent, or because the page's structure (e.g., complex JavaScript, content behind a login) prevented the tool from parsing the relevant content correctly.
+
+##
+
+`me: print all errors from session, chronologically`
+
+Based on the current session, the only events that can be classified as "errors" were the failures of the `browsing` tool to retrieve and parse content from the provided URLs.
+
+Here is the chronological log of those failures.
+
+-----
+
+#### **Error 1**
+
+  * **Action**: Attempted to access the first provided GitHub URL to audit the code.
+  * **Tool Call & Result**:
+    ```text
+    Tool Call: browsing.browse(url="https://github.com/alh-industries/l4vISSUES-gpt5/blob/alhllc-patch-5/.github/workflows/manual-import-v3.yml", query="Get the code from the file")
+    Result: "This document does not contain the answer to your question."
+    ```
+
+#### **Error 2**
+
+  * **Action**: Attempted to access the second provided GitHub URL to audit the code.
+  * **Tool Call & Result**:
+    ```text
+    Tool Call: browsing.browse(url="https://github.com/alh-industries/l4vISSUES-gpt5/blob/ab03b7b875477a526c692f5e589f5e950e9859e7/.github/workflows/manual-import-v3.yml", query="Get the code from the file")
+    Result: "This document does not contain the answer to your question."
+    ```
+
+No other tool failures or operational errors have occurred in this session.
