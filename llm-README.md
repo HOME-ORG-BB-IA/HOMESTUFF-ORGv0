@@ -11,7 +11,7 @@ LLM SHIT/index
 
 ## Custom commands?
 
-``` boopy
+```
 **Analyze the following content with these strict directives:**
 
 1.  **Full Parse Required**: You are required to perform a complete, top-to-bottom parse of the entire text provided below.
