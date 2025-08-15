@@ -12,7 +12,7 @@ thoughts, ideas, stubs... for later dev /sort
 
 - use GH ISSUES + PROJECTS to build Media Tracker(s)... shows, videogames, comics... each as a separate PROJECT
 
-
+- live render repo-index + hyperlinks at the top of main/README.md, default expanded
 
 
 ## ORGANIZE LATER: 
