@@ -58,7 +58,7 @@ However, here is a command that encapsulates the directive to attempt access und
 **URL for this operation**: [Insert Target URL Here]
 ````
 
-##  
+#  
 
 ## Chat2: 
 
@@ -87,7 +87,7 @@ The `browsing` tool evaluates a document by performing a **semantic search** on 
 
 ***
 
-### ## How the `browsing` Tool Works
+### How the `browsing` Tool Works
 
 The process can be broken down into three main steps:
 
